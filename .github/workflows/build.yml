@@ -35,4 +35,4 @@ jobs:
         if: always()
         uses: invisirisk/pse-action@v1.0.20
         with:
-        cleanup: "true"
+          cleanup: "true"
